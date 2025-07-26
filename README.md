@@ -37,10 +37,10 @@
 </picture>
 
 
+<!-- 
+### -->
 
-###
-
-<img src="https://raw.githubusercontent.com/jefryjacky/jefryjacky/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/jefryjacky/jefryjacky/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
