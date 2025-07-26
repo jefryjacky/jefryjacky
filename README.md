@@ -34,6 +34,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jefryjacky/jefryjacky/output/pacman-contribution-graph.svg">
 </picture>
 
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 ###
 <!-- 
 <img src="https://raw.githubusercontent.com/jefryjacky/jefryjacky/output/snake.svg" alt="Snake animation" /> -->
